@@ -1,0 +1,2 @@
+# URLshortner
+I have created a URL Shortening API like 'tinyurl' and 'bitly' on localhost server using Node.js Express and MongoDB. This is an API service that can be used by any website to generate short urls of large size website link. After using this API the link website get as a json response the traffic will be redirected to the original website through the shorturl provider server. Technologies used are Node.js,Express,MongoDB modules config , validurl, shortid, mongoURI .
